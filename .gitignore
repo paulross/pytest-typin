@@ -1,0 +1,33 @@
+# Build artifacts
+.eggs/
+build/
+dist/
+pytest_example.egg-info/
+
+# Sphinx docs
+docs/_build/*
+
+# Python
+__pycache__
+.cache
+*.pyc
+.hypothesis
+
+# Eclipse
+.project
+.pydevproject
+.settings/
+
+# PyCharm
+.idea
+
+# Coverage artifacts
+.coverage
+htmlcov/
+
+# Node and NPM
+node_modules/
+npm-debug.log
+
+# Mac OS X
+.DS_Store
